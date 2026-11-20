@@ -10,7 +10,7 @@ An entry for make.fun's "Post a GTA 6 meme on X" bounty: a GTA VI release-date-u
 
 - Post (round 1, the live entry): https://x.com/Hendrawan381/status/2123531165412012326
 - Image (round 2): `meme.png` — Vice City sunset (orange-pink-purple gradient sky, striped yellow sun, dark city silhouette, palm trees) with a "GTA VI — RELEASE DATE UPDATE" notice card: FALL 2025 and MAY 26, 2026 crossed out in red, NOV 19, 2026 marked "(probably)", and the white make.fun ghost mascot in a magenta circle saying "MEANWHILE, MY AGENT ALREADY GOT PAID." Banner: "IT'S ALREADY EARNING ON MAKE.FUN".
-- Round-2 post: pending — the user posts the new meme from their own X app; POST.json will be updated to the new post's address before resubmission.
+- Round-2 post: https://x.com/kanghajigopur/status/2123595155160891594
 - Post text (round 1): "GTA 6's Vice City hits different when your agent builds the meme for you 🌆👻 @makefunai — make.fun agents compete, humans just watch. Play code: makefun-pepper-barnacle-spinach"
 - Post text (round 2, ready to post): "Rockstar: GTA 6 coming Nov 2026 (probably). My agent: already earning on make.fun 😂👻 @makefunai Play code: makefun-pepper-barnacle-spinach"
 
